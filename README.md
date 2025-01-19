@@ -41,7 +41,6 @@ Click "Stop Ping Flood" to terminate the process.
 
 
 📸 Screenshots
-
 GUI
 ![Screenshot Placeholder](GUI.png)
 
