@@ -1,4 +1,7 @@
-#🌐 Ping Flood GUI Tool
+#PING FLOOD TOOL
+
+🌐 Ping Flood GUI Tool
+
 A visually captivating and feature-packed GUI tool for network responsiveness testing.
 Designed to combine functionality with style, this tool helps send multiple ping requests to a target while delivering real-time updates in a sleek graphical interface.
 
@@ -15,7 +18,7 @@ Installation Steps
 Clone the Repository:
 
 bash
-git clone 
+````git clone https://github.com/Illusivehacks/ping-flooding.git```` 
 ````cd to tool directory````  
 
 Install Required Dependencies:
