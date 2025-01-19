@@ -45,7 +45,7 @@ GUI
 ![Screenshot Placeholder](GUI.png)
 
 
-output
+OUTPUT
 ![Screenshot Placeholder](output.png)
 
 🧩 Technical Details
